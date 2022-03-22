@@ -420,6 +420,22 @@ footer h2 {
     font-weight: 400;
     line-height: 1.5rem;
   }
+
+  h2 {
+    font-size: 2.2rem;
+  }
+
+  .navbar {
+    position: static;
+    display: block;
+    flex-wrap: nowrap;
+    align-items: center;
+    height:
+    justify-content: space-between;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+  }
 }
 
 
@@ -485,8 +501,8 @@ footer h2 {
 }
 
 .logo-img {
-  margin-left: 5%;
-  width: 14rem;
+  margin: auto;
+  width: 20rem;
   height: auto;
 }
 
