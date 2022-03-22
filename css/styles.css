@@ -121,6 +121,11 @@ footer h2 {
   margin-top: 2rem;
 }
 
+.hidden-text {
+  font-size: 1px;
+  display:none;
+}
+
 p {
   color: #362e2c;
   font-family: 'Josefin Slab', serif;
@@ -262,6 +267,9 @@ footer a:hover{
   margin: -20px;
 }
 
+.no-padding {
+  margin-top: 0;
+}
 
 .title {
   background-color: #ffffff;
