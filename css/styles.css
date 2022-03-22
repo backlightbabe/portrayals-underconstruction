@@ -153,6 +153,10 @@ footer a:hover{
     position: static;
   } */
 
+  body {
+    padding: 0;
+  }
+
   .list {
     color: #362e2c;
     font-size: 2rem;
