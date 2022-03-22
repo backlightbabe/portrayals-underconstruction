@@ -24,6 +24,7 @@ html {
 
 body {
   margin: 0;
+
 }
 
 /**
@@ -427,6 +428,14 @@ footer h2 {
   text-align: center;
 }
 
+.define-width {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1140px;
+
+}
+
 .form-label-sm {
   padding-top: 20px;
 }
@@ -474,6 +483,9 @@ footer h2 {
 
 
 .hero-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100%;
   height: auto;
   margin-bottom: 0;
