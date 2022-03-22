@@ -432,8 +432,8 @@ footer h2 {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: auto;
   max-width: 1140px;
-
 }
 
 .form-label-sm {
