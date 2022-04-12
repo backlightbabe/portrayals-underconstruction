@@ -158,6 +158,12 @@ footer a:hover{
     position: static;
   } */
 
+  @media (max-width: 490px) {
+    h1 {
+      font-size: 3rem !important;
+    }
+  }
+
   body {
     padding: 0;
   }
